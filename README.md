@@ -309,4 +309,3 @@ Deep Learning & Data Science Enthusiast
 
 ---
 
-*Built with 🛩️ PyTorch and a lot of aerial curiosity*
